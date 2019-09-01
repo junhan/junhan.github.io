@@ -1,7 +1,6 @@
 ---
 layout: post
-title: first post
+title: hello world
 ---
 
-# some Hello World
-## journey starts here
+journey starts here
